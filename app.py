@@ -1,3 +1,4 @@
+!pip install beutifulsoup4
 import streamlit as st
 import pickle
 import pandas  as pd
