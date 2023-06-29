@@ -1,4 +1,4 @@
-!pip install beautifulsoup4
+!pip install bs4
 import streamlit as st
 import pickle
 import pandas  as pd
