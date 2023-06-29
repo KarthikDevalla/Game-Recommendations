@@ -3,4 +3,4 @@ pandas
 Pillow
 streamlit
 streamlit-option-menu
-beautifulsoup4
+bs4
