@@ -3,4 +3,4 @@ pandas
 Pillow
 streamlit
 streamlit-option-menu
-bs4
+bs4==0.0.1
