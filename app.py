@@ -4,8 +4,11 @@ import pandas  as pd
 from PIL import Image
 from bs4 import BeautifulSoup
 import requests
+# #98FF98
+im = Image.open('book.png')
 
-st.title('Game Recommendation System')
+st.set_page_config(page_title="",layout='wide', page_icon=im)
+st.title(':mint[Game Recommendation System]')
 
 game_list=pickle.load(open('games.pkl','rb'))
 similarity_list=pickle.load(open('similarities.pkl','rb'))
