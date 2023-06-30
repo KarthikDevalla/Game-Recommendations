@@ -5,9 +5,9 @@ from PIL import Image
 from bs4 import BeautifulSoup
 import requests
 # #98FF98
-im = Image.open('book.png')
+im = Image.open('game-controller.png')
 
-st.set_page_config(page_title="",layout='wide', page_icon=im)
+st.set_page_config(page_title="Game Recommender",layout='wide', page_icon=im)
 st.title(':mint[Game Recommendation System]')
 
 game_list=pickle.load(open('games.pkl','rb'))
