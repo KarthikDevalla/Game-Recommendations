@@ -9,7 +9,7 @@ A content-based game recommendation system that uses industry-level similarity m
 Clone the repository
 
    ```shell
-   git clone https://github.com/your-username/GameGenius.git
+   git clone https://github.com/KarthikDevalla/Game-Recommendations.git
    ```
 ### Usage
 
