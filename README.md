@@ -1,5 +1,8 @@
 # Game Recommendation System
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+
 A content-based game recommendation system that uses industry-level similarity measures to provide highly personalized game suggestions. With this system, gamers can discover new and exciting games that align with their preferences. Deployed on Streamlit for usability among different platforms.
 
 
